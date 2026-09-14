@@ -1,23 +1,331 @@
-# 💫 About Me:
-Create a professional, modern, clean, and recruiter-friendly GitHub Profile README for me.<br><br>IMPORTANT:<br>Do not create a generic developer README.<br>Build the profile specifically around the information provided below.<br><br>The README should emphasize my REAL education, internship, projects, certifications, and leadership experience first. My large technology stack should support my profile but should NOT overshadow my actual experience and projects.<br><br>==================================================<br>👤 PROFILE<br>==================================================<br><br>Name: Rahul Das<br><br>I am a B.Tech Computer Engineering student at Jorhat Engineering College with a GPA of 8.21.<br><br>My main interests are:<br><br>- Software Engineering<br>- Backend Development<br>- Full-Stack Development<br>- Artificial Intelligence<br>- Machine Learning<br>- Generative AI<br>- Cloud Computing<br>- DevOps<br>- Cybersecurity<br><br>I enjoy learning through hands-on development, building practical applications, and exploring modern software technologies.<br><br>==================================================<br>🎯 PROFILE POSITIONING<br>==================================================<br><br>Present me primarily as:<br><br>Computer Engineering Student<br>→ Software Engineering<br>→ Backend Development<br>→ AI / Machine Learning<br>→ Generative AI / RAG<br>→ Cloud & DevOps<br>→ Cybersecurity<br><br>The profile should communicate that I am actively developing my skills through projects, internship experience, technical learning, and hands-on practice.<br><br>Do NOT make me look like someone who simply lists many technologies.<br><br>My actual projects, IIT Guwahati internship, education, certifications, and NCC leadership experience should receive more visual and textual importance than the technology badges.<br><br>==================================================<br>⭐ ABOUT ME<br>==================================================<br><br>Create a short, professional About Me section.<br><br>Mention that I am:<br><br>- A B.Tech Computer Engineering student<br>- Studying at Jorhat Engineering College<br>- GPA: 8.21<br>- Interested in software and backend development<br>- Interested in AI/ML and Generative AI<br>- Exploring RAG and LangChain<br>- Working with Docker and Kubernetes<br>- Exploring cloud technologies<br>- Interested in DevOps and CI/CD<br>- Exploring cybersecurity through hands-on learning and TryHackMe<br>- Interested in system design and scalable applications<br>- Developing leadership and teamwork skills through NCC<br><br>Keep this section concise.<br><br>==================================================<br>🎓 EDUCATION<br>==================================================<br><br>Make Education a prominent section.<br><br>Jorhat Engineering College<br><br>B.Tech — Computer Engineering<br><br>GPA: 8.21<br><br>Do not invent graduation year, coursework, academic awards, or other academic information.<br><br>==================================================<br>💼 EXPERIENCE<br>==================================================<br><br>Make my internship experience a prominent section.<br><br>IIT Guwahati — Intern<br><br>Area:<br>Semantic Analysis using Machine Learning<br><br>Details:<br><br>- Worked on semantic analysis techniques using machine learning.<br>- Analyzed textual datasets to extract patterns and insights.<br><br>Do not invent:<br>- Internship dates<br>- Internship title beyond the information provided<br>- Specific tools<br>- Responsibilities<br>- Achievements<br>- Publications<br>- Research results<br><br>==================================================<br>🚀 FEATURED PROJECTS<br>==================================================<br><br>Make the Projects section one of the MOST prominent sections of the README.<br><br>Project 1:<br><br>🌳 Tree Plantation Detection using Machine Learning<br><br>Description:<br>Developed a machine-learning-based system to detect tree plantations from image datasets.<br><br>Include:<br><br>- Machine Learning<br>- Image analysis<br>- Pattern recognition<br>- Visual data processing<br>- Identification of vegetation regions<br><br>Project 2:<br><br>🖼️ Image Pixel Manipulation System<br><br>Description:<br>Developed an image processing application using Python for pixel-level image manipulation.<br><br>Include:<br><br>- Pixel-level operations<br>- Intensity transformation<br>- Digital image processing<br>- Visual data analysis<br><br>Project 3:<br><br>📋 Attendance Management Application<br><br>Description:<br>Designed and developed an application to digitally manage student attendance records.<br><br>Include:<br><br>- Recording attendance<br>- Updating attendance<br>- Tracking attendance<br>- Digital attendance management<br><br>IMPORTANT:<br>Do not invent GitHub repository links, screenshots, technologies, performance metrics, user counts, or additional features for these projects.<br><br>If repository links are needed, use placeholders:<br><br>PROJECT_REPOSITORY_LINK<br><br>==================================================<br>🏆 PROGRAMS & JOB SIMULATIONS<br>==================================================<br><br>Create a professional section for these experiences:<br><br>PwC Launchpad Program — CDTR Track<br><br>Micro-internships / Job Simulations:<br><br>- Cybersecurity Analyst Job Simulation — Tata<br>- Cyber Job Simulation — Deloitte<br>- Technology Job Simulation — Deloitte<br>- GenAI Powered Data Analytics Job Simulation<br><br>Do not exaggerate these as full-time employment or professional work experience.<br><br>==================================================<br>📜 CERTIFICATIONS<br>==================================================<br><br>Create a dedicated Certifications section.<br><br>Include:<br><br>- Cybersecurity Analyst Simulation — Tata<br>- Technology Consulting Simulation — Deloitte<br>- GenAI Powered Data Analytics Program<br>- NCC C Certificate<br><br>Do not invent certificate IDs, dates, issuing organizations beyond what is provided, or certificate links.<br><br>==================================================<br>🏅 LEADERSHIP & NCC<br>==================================================<br><br>Make NCC a meaningful leadership section.<br><br>I hold an NCC C Certificate.<br><br>Use NCC to highlight qualities such as:<br><br>- Leadership<br>- Teamwork<br>- Discipline<br>- Responsibility<br>- Communication<br>- Team coordination<br>- Decision-making<br>- Working effectively in team environments<br><br>This section should communicate that my technical profile is complemented by leadership and teamwork experience.<br><br>IMPORTANT:<br>Do NOT invent:<br><br>- NCC rank<br>- NCC position<br>- Camps<br>- Awards<br>- Specific NCC activities<br>- Training details<br>- Competitions<br>- Certificates other than the NCC C Certificate<br><br>==================================================<br>🛠️ TECHNICAL SKILLS<br>==================================================<br><br>Create a well-organized Tech Stack section.<br><br>Do NOT put every technology into one huge line.<br><br>Organize technologies into clear categories.<br><br>-----------------------------<br>💻 Programming Languages<br>-----------------------------<br><br>- C<br>- C++<br>- Python<br>- Java<br>- JavaScript<br>- PHP<br>- Assembly<br><br>-----------------------------<br>🌐 Web Development<br>-----------------------------<br><br>- HTML5<br>- CSS3<br>- JavaScript<br>- PHP<br><br>-----------------------------<br>⚙️ Backend & API Development<br>-----------------------------<br><br>- FastAPI<br>- REST APIs<br>- Swagger / OpenAPI<br>- Postman<br>- Java<br>- Apache Tomcat<br><br>-----------------------------<br>🤖 AI / ML / Data<br>-----------------------------<br><br>- Machine Learning<br>- Generative AI<br>- RAG (Retrieval-Augmented Generation)<br>- LangChain<br>- Semantic Analysis<br>- Image Processing<br>- Data Analysis<br>- Scikit-learn<br>- Pandas<br>- Matplotlib<br><br>-----------------------------<br>🗄️ Databases<br>-----------------------------<br><br>- SQL<br>- PostgreSQL<br>- MongoDB<br>- MySQL<br>- SQLite<br><br>-----------------------------<br>☁️ Cloud<br>-----------------------------<br><br>- AWS<br>- Google Cloud Platform (GCP)<br>- Microsoft Azure<br>- Firebase<br>- Render<br>- Vercel<br><br>-----------------------------<br>🐳 DevOps & Deployment<br>-----------------------------<br><br>- Docker<br>- Kubernetes<br>- Git<br>- GitHub<br>- CI/CD<br><br>-----------------------------<br>🔐 Cybersecurity<br>-----------------------------<br><br>- Cybersecurity Fundamentals<br>- TryHackMe<br>- Security Labs<br>- Basic Security Concepts<br><br>-----------------------------<br>🧰 Other Tools<br>-----------------------------<br><br>- LaTeX<br>- Git<br>- GitHub<br>- Swagger<br>- Postman<br><br>==================================================<br>🎨 TECH STACK DESIGN<br>==================================================<br><br>Use professional technology icons and badges.<br><br>Use badges/icons for relevant technologies including:<br><br>C<br>C++<br>Python<br>Java<br>JavaScript<br>PHP<br>Assembly<br>HTML5<br>CSS3<br>FastAPI<br>Swagger<br>Postman<br>Apache Tomcat<br>Docker<br>Kubernetes<br>Git<br>GitHub<br>AWS<br>Google Cloud<br>Azure<br>Firebase<br>Render<br>Vercel<br>PostgreSQL<br>MongoDB<br>MySQL<br>SQLite<br>Scikit-learn<br>Pandas<br>Matplotlib<br>LangChain<br>TryHackMe<br><br>Organize badges by category.<br><br>Do NOT allow the badges to dominate the README.<br><br>The Projects, Experience, Education, Certifications, and Leadership sections should remain more important.<br><br>==================================================<br>📊 GITHUB STATISTICS<br>==================================================<br><br>Include a GitHub statistics section near the lower part of the README.<br><br>Include:<br><br>- GitHub Stats<br>- GitHub Streak<br>- Top / Most Used Languages<br><br>Use:<br><br>YOUR_GITHUB_USERNAME<br><br>as the placeholder.<br><br>Do not invent any GitHub statistics.<br><br>Use GitHub stats services only if they are compatible with GitHub README Markdown.<br><br>==================================================<br>📫 CONTACT<br>==================================================<br><br>Create a professional Connect With Me section.<br><br>Include placeholders for:<br><br>- GitHub<br>- LinkedIn<br>- Email<br>- Portfolio<br><br>Use:<br><br>YOUR_GITHUB_USERNAME<br>YOUR_LINKEDIN_USERNAME<br>YOUR_EMAIL<br>YOUR_PORTFOLIO_URL<br><br>Do not invent URLs or usernames.<br><br>==================================================<br>📚 CURRENTLY LEARNING / GROWING<br>==================================================<br><br>Create a small section showing areas I am continuing to develop:<br><br>- Backend Engineering<br>- FastAPI<br>- Docker<br>- Kubernetes<br>- Cloud Computing<br>- CI/CD<br>- AI / Machine Learning<br>- RAG<br>- LangChain<br>- Cybersecurity<br>- System Design<br><br>Do not claim mastery or expertise.<br><br>==================================================<br>🎯 CAREER DIRECTION<br>==================================================<br><br>Create a concise section showing my technical direction:<br><br>Software Engineering<br>        ↓<br>Backend Development<br>        ↓<br>AI / Machine Learning<br>        ↓<br>Generative AI / RAG<br>        ↓<br>Cloud Computing<br>        ↓<br>Docker & Kubernetes<br>        ↓<br>DevOps / CI/CD<br>        ↓<br>Cybersecurity<br><br>Make this look clean and professional.<br><br>==================================================<br>🎨 OVERALL DESIGN<br>==================================================<br><br>The GitHub README should be:<br><br>- Professional<br>- Modern<br>- Clean<br>- Recruiter-friendly<br>- Easy to navigate<br>- Visually attractive<br>- Well structured<br>- Suitable for a Computer Engineering student<br><br>Use headings, icons, badges, spacing, and tables where appropriate.<br><br>Avoid:<br><br>- Excessive emojis<br>- Excessive animations<br>- Huge GIFs<br>- Unnecessary decorative content<br>- Fake achievements<br>- Generic motivational quotes<br>- Overly long paragraphs<br><br>The profile should look like a genuine student's professional GitHub portfolio.<br><br>==================================================<br>⭐ PRIORITY ORDER<br>==================================================<br><br>Give visual and textual priority in this order:<br><br>1. 👋 Introduction<br>2. 👨‍💻 About Me<br>3. 🎓 Education — Jorhat Engineering College, B.Tech, GPA 8.21<br>4. 💼 IIT Guwahati Internship<br>5. 🚀 Featured Projects<br>6. 🏆 Programs & Job Simulations<br>7. 📜 Certifications<br>8. 🏅 NCC & Leadership<br>9. 🛠️ Technical Skills<br>10. 📊 GitHub Statistics<br>11. 📫 Contact<br>12. 📚 Currently Learning<br><br>Do NOT put the huge technology list before my projects and experience.<br><br>==================================================<br>⚠️ ACCURACY RULES<br>==================================================<br><br>This is extremely important.<br><br>Only use information provided in this prompt.<br><br>Do NOT invent:<br><br>- Projects<br>- Internship details<br>- Job experience<br>- Achievements<br>- Certifications<br>- GitHub repositories<br>- GitHub statistics<br>- Social media accounts<br>- Portfolio links<br>- NCC ranks<br>- NCC positions<br>- NCC awards<br>- NCC camps<br>- Specific NCC activities<br>- Technologies I have not listed<br><br>Do not call me:<br><br>- Expert<br>- Senior Developer<br>- Professional Cybersecurity Engineer<br>- Advanced Cloud Engineer<br>- Senior DevOps Engineer<br>- Professional Penetration Tester<br>- Machine Learning Engineer<br><br>unless the provided information specifically supports such a claim.<br><br>Present my technologies as skills and areas of knowledge without exaggerating my experience.<br><br>==================================================<br>📌 FINAL INSTRUCTION<br>==================================================<br><br>Generate the COMPLETE GitHub Profile README in Markdown.<br><br>The output must be directly copy-pasteable into README.md.<br><br>Make the final README tell a coherent story:<br><br>Computer Engineering Student<br>→ Strong Academic Foundation<br>→ IIT Guwahati ML Internship<br>→ Practical ML / Software Projects<br>→ AI / Backend / Cloud / DevOps Skills<br>→ Cybersecurity Learning<br>→ NCC Leadership & Teamwork<br>→ Continuous Technical Growth<br><br>The final result should feel like a real professional GitHub portfolio for Rahul Das, not a generic AI-generated template.
+# 👋 Hi, I'm Rahul Das
 
+### 💻 Computer Engineering Student | Backend & AI/ML Enthusiast | Cloud & DevOps | Cybersecurity
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rahul230710007043das&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rahul230710007043das&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahul230710007043das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 B.Tech Computer Engineering student at **Jorhat Engineering College**  
+📊 GPA: **8.21**  
+🚀 Interested in **Software Engineering, Backend Development, AI/ML, Generative AI, Cloud, DevOps & Cybersecurity**
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahul230710007043das&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student passionate about building practical and intelligent software solutions.
+
+My interests include:
+
+- 💻 Software Engineering & Backend Development
+- 🤖 Machine Learning & Generative AI
+- 🔎 RAG & LangChain
+- ☁️ Cloud Computing
+- 🐳 Docker & Kubernetes
+- 🔄 DevOps & CI/CD
+- 🔐 Cybersecurity & TryHackMe
+- 🗄️ Databases & API Development
+- 🏗️ System Design & Scalable Applications
+
+Alongside my technical journey, my **NCC C Certificate** has helped me develop leadership, teamwork, discipline, responsibility, and communication skills.
+
+---
+
+# 🎓 Education
+
+## Jorhat Engineering College
+
+**B.Tech — Computer Engineering**
+
+**GPA: 8.21**
+
+---
+
+# 💼 Experience
+
+## IIT Guwahati — Intern
+
+### Semantic Analysis using Machine Learning
+
+- Worked on semantic analysis techniques using Machine Learning.
+- Analyzed textual datasets to extract patterns and insights.
+- Worked with data-driven analysis and machine learning concepts.
+
+---
+
+# 🚀 Featured Projects
+
+## 🌳 Tree Plantation Detection using Machine Learning
+
+Developed a machine-learning-based system to detect tree plantations from image datasets.
+
+**Key Areas:**
+
+- Machine Learning
+- Image Analysis
+- Pattern Recognition
+- Visual Data Processing
+- Vegetation Region Identification
+
+---
+
+## 🖼️ Image Pixel Manipulation System
+
+Developed a Python-based image processing application for pixel-level image manipulation.
+
+**Key Areas:**
+
+- Pixel-Level Operations
+- Intensity Transformation
+- Digital Image Processing
+- Visual Data Analysis
+
+---
+
+## 📋 Attendance Management Application
+
+Designed and developed an application to digitally manage student attendance records.
+
+**Features:**
+
+- Record Attendance
+- Update Attendance
+- Track Attendance
+- Digital Attendance Management
+
+---
+
+# 🏆 Programs & Job Simulations
+
+## PwC Launchpad Program — CDTR Track
+
+Completed micro-internships and job simulations including:
+
+- 🔐 Cybersecurity Analyst Job Simulation — Tata
+- 🔐 Cyber Job Simulation — Deloitte
+- 💻 Technology Job Simulation — Deloitte
+- 🤖 GenAI Powered Data Analytics Job Simulation
+
+---
+
+# 📜 Certifications
+
+- 🛡️ Cybersecurity Analyst Simulation — Tata
+- 💼 Technology Consulting Simulation — Deloitte
+- 🤖 GenAI Powered Data Analytics Program
+- 🏅 NCC C Certificate
+
+---
+
+# 🏅 Leadership & NCC
+
+## National Cadet Corps (NCC)
+
+**NCC C Certificate Holder**
+
+My NCC experience has contributed to the development of:
+
+- Leadership
+- Teamwork
+- Discipline
+- Responsibility
+- Communication
+- Team Coordination
+- Decision Making
+- Working effectively in team environments
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## ⚙️ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+**Backend Concepts:**
+
+- REST APIs
+- API Testing
+- API Documentation
+- Backend Development
+
+---
+
+## 🤖 AI / Machine Learning / Data
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+
+**Areas:**
+
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Semantic Analysis
+- Image Processing
+- Data Analysis
+
+---
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🐳 DevOps & Containerization
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**DevOps:**
+
+- Docker
+- Kubernetes
+- CI/CD
+- Git
+- GitHub
+- Deployment Workflows
+
+---
+
+## 🔐 Cybersecurity
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+**Areas:**
+
+- Cybersecurity Fundamentals
+- TryHackMe
+- Security Labs
+- Basic Security Concepts
+- Cybersecurity Analyst Simulation
+
+---
+
+## 📝 Other Tools
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=rahul230710007043das&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rahul230710007043das&theme=dark&hide_border=false" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahul230710007043das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/rahul230710007043das">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Currently Learning & Growing
+
+I'm continuously developing my skills in:
+
+- Backend Engineering
+- FastAPI
+- Docker
+- Kubernetes
+- Cloud Computing
+- CI/CD
+- AI / Machine Learning
+- RAG
+- LangChain
+- Cybersecurity
+- System Design
+
+---
+
+# 🎯 Career Direction
+
+```text
+Software Engineering
+        ↓
+Backend Development
+        ↓
+AI / Machine Learning
+        ↓
+Generative AI / RAG
+        ↓
+Cloud Computing
+        ↓
+Docker & Kubernetes
+        ↓
+DevOps / CI/CD
+        ↓
+Cybersecurity
